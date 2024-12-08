@@ -13,4 +13,4 @@ Here are some categories and topics you can explore:
 - [Stock Market Basics](./stock-market-basics.md)
 
 
-![at](image.png)
+![at](./image.png)
