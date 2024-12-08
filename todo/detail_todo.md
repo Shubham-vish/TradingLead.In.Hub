@@ -41,8 +41,7 @@
 - Decide if you need to create your own SMTP server based on the tests.
 - Explore how an email sales funnel can be created.
 
-### Action Plan
-
+### Action Plan: Email Testing
 #### Create Email Template
 - Learn and implement HTML for responsive and engaging email templates.
   - Focus on proper structuring with `table` layout for better compatibility.
@@ -92,8 +91,7 @@
 - Track user activity with Microsoft Clarity or similar tools.
 - Integrate payment gateways (e.g., Razorpay).
 
-### Action Plan
-
+### Action Plan: Funnel Template Creation
 #### Funnel UI Design
 - Plan out the sales funnel interface.
   - Homepage with a lead magnet.
@@ -122,8 +120,7 @@
 - Start with an organic sales funnel via short-form content (reels/shorts).
 - Study which social media platforms are best for paid ads.
 
-### Action Plan
-
+### Action Plan: Course Content Planning
 #### Course Outline
 - Create a high-level outline of the course.
   - Introductory sections.
@@ -163,8 +160,7 @@
 - Ensure the webpage format is clean and responsive.
 - Incorporate SEO best practices.
 
-### Action Plan
-
+### Action Plan: Webpages and PPT Files
 #### Convert Markdown Files to Webpages
 - Use tools like **Jekyll**, **Hugo**, or **Gatsby** to convert Markdown files into static HTML webpages.
   - Install and set up the framework.
