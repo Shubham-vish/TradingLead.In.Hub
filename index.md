@@ -3,14 +3,14 @@
 Here are some categories and topics you can explore:
 
 ## Categories:
-- [Technology](../blogs/categories/technology.md)
-- [Finance](../blogs/categories/finance.md)
-- [AI](../blogs/categories/ai.md)
+- [Technology](../categories/technology.md)
+- [Finance](../categories/finance.md)
+- [AI](../categories/ai.md)
 
 ## Popular Topics:
-- [Nifty Analysis](../blogs/nifty-analysis.md)
-- [AI in Trading](../blogs/ai-trading.md)
-- [Stock Market Basics](../blogs/stock-market-basics.md)
+- [Nifty Analysis](../nifty-analysis.md)
+- [AI in Trading](../ai-trading.md)
+- [Stock Market Basics](../stock-market-basics.md)
 
 
-![alt text](image.png)
+![at](image.png)
