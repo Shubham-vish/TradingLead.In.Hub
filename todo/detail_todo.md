@@ -1,6 +1,6 @@
 # Email Marketing and Funnel Creation Plan
 
-## Index:
+## Table of Contents:
 1. [Email Testing](#email-testing)
    - [Create Email Template](#create-email-template)
    - [Plan Email Content](#plan-email-content)
