@@ -1,16 +1,16 @@
 # Quick Links to Email Funnel and Course Content
 <span style="color: red;">This text is red.</span>
-- [Email Testing](./detail_todo.md#1-email-testing)
-   - [Create Email Template](./detail_todo.md#11-create-email-template)
-   - [Plan Email Content](./detail_todo.md#12-plan-email-content)
-   - [Test Email Trackers](./detail_todo.md#13-test-email-trackers)
-   - [Create Tracking View (Low Priority)](./detail_todo.md#14-create-tracking-view-low-priority)
-   - [Testing Tools](./detail_todo.md#15-testing-tools)
-   - [SMTP Server Decision](./detail_todo.md#16-smtp-server-decision)
-   - [Email Sales Funnel](./detail_todo.md#17-email-sales-funnel)
+- [Email Testing](./detail_todo.md#email-testing)
+   - [Create Email Template](./detail_todo.md#create-email-template)
+   - [Plan Email Content](./detail_todo.md#plan-email-content)
+   - [Test Email Trackers](./detail_todo.md#test-email-trackers)
+   - [Create Tracking View (Low Priority)](./detail_todo.md#create-tracking-view-low-priority)
+   - [Testing Tools](./detail_todo.md#testing-tools)
+   - [SMTP Server Decision](./detail_todo.md#smtp-server-decision)
+   - [Email Sales Funnel](./detail_todo.md#email-sales-funnel)
    
 - [Funnel Template Creation](./detail_todo.md#funnel-template-creation)
-   - [Funnel UI Design](./detail_todo.md#2funnel-ui-design)
+   - [Funnel UI Design](./detail_todo.md#funnel-ui-design)
    - [User Activity Tracking](./detail_todo.md#user-activity-tracking)
    - [Payment Gateway Integration](./detail_todo.md#payment-gateway-integration)
 
