@@ -1,0 +1,26 @@
+{
+  "title": "Email Marketing and Funnel Creation",
+  "showIndex": true, 
+  "items": [
+    {
+      "title": "Email Testing",
+      "file": "todo/detail_todo.md",
+      "showTOC": true
+    },
+    {
+      "title": "Todo",
+      "file": "todo/todo.md",
+      "showTOC": true
+    },
+    {
+      "title": "Index",
+      "file": "index.md",
+      "showTOC": true
+    },
+    {
+      "title": "Create Webpages Using Markdown",
+      "file": "create-webpages.md",
+      "showTOC": false
+    }
+  ]
+}
