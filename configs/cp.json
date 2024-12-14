@@ -1,0 +1,11 @@
+{
+  "title": "Chart Patterns",
+  "showIndex": false, 
+  "items": [
+    {
+      "title": "Chart Patterns",
+      "file": "ChartPatterns/primary.md",
+      "showTOC": true
+    }
+  ]
+}
