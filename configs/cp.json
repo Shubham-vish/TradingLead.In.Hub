@@ -11,6 +11,11 @@
       "title": "Technical Analysis Guide",
       "file": "ChartPatterns/technical-analysis.md",
       "showTOC": true
+    },
+    {
+         "title": "Technical Indicators",
+      "file": "ChartPatterns/technical-indicators.md",
+      "showTOC": true
     }
   ]
 }
