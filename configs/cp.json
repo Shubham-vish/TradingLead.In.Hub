@@ -6,6 +6,11 @@
       "title": "Chart Patterns & Probabilities",
       "file": "ChartPatterns/primary.md",
       "showTOC": true
+    },
+    {
+      "title": "Technical Analysis Guide",
+      "file": "ChartPatterns/technical-analysis.md",
+      "showTOC": true
     }
   ]
 }
