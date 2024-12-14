@@ -34,7 +34,6 @@ Technical indicators use price volatility and volume to analyze trends and gener
 11. William %R
 12. Volume-Weighted Average Price (VWAP)
 
-### [More on Technical Analysis Indicators](https://tradingcenter.org/index.php/learn/technical-analysis/281-technical-analysis-indicators)
 
 ## 3. Major Types of Charts
 
@@ -47,7 +46,6 @@ Charting is key for technical analysts. Types include:
 
 ![Major chart types](https://tradingcenter.org/images/articles/chart-types-trading-center-650.png)
 
-### [Major Types of Charts](https://tradingcenter.org/index.php/learn/technical-analysis/125-major-types-of-charts)
 
 ## 4. Harmonic Chart Patterns
 
@@ -59,9 +57,9 @@ Harmonic trading uses geometry and fractals, such as:
 4. Harmonic Bat Pattern
 5. Harmonic Crab Pattern
 
-### [More on Harmonic Price Patterns](https://tradingcenter.org/index.php/learn/harmonic-price-patterns)
 
 ## 5. Elliott Wave Principle and the Stock Market
+
 
 ![Elliott Wave Patterns](https://tradingcenter.org/images/articles/elliot-basic-pattern.jpg)
 
