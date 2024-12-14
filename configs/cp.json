@@ -1,9 +1,9 @@
 {
-  "title": "Chart Patterns",
+  "title": "Chart Patterns & Probabilities",
   "showIndex": true, 
   "items": [
     {
-      "title": "Chart Patterns",
+      "title": "Chart Patterns & Probabilities",
       "file": "ChartPatterns/primary.md",
       "showTOC": true
     }

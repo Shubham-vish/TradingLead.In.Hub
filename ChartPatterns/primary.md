@@ -1,5 +1,3 @@
-# Chart Patterns & Probabilities
-
 Chart patterns are distinct formations on a price chart of a financial-traded asset. There are many different types of chart patterns that are distinguished by a wide variety of unique features. When a chart pattern is confirmed, there is a high probability that a certain (upward/downward) price movement will occur in the near future. A chart pattern is not able to predict with certainty a future price movement, however, it can indicate a high-probable trend reversal or continuation. Chart patterns are very useful in confirming the indications of other [technical analysis](https://tradingcenter.org/index.php/train/technical-analysis-guide) tools such as MACD or RSI.
 
 ## Two Categories of Chart Patterns
