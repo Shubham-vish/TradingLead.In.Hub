@@ -110,7 +110,6 @@ Pivot points calculate key price levels:
 2. **Resistance (R1, R2, R3)**
 
 ## 9. Fibonacci Sequence
-
 ![Fibonacci Key Levels](https://tradingcenter.org/images/Fundamentals/Platinum-Sequence.jpg)
 
 ### Key Levels
@@ -151,5 +150,3 @@ PriceMomentum focuses on percentage changes, market volatility, and periodic mom
 7. Time entries using shorter timeframes.
 
 ---
-
-© 2012-2024 TradingCenter.org | Author: George Protonotarios.
