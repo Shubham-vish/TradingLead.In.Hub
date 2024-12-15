@@ -16,6 +16,11 @@
          "title": "Technical Indicators",
       "file": "ChartPatterns/technical-indicators.md",
       "showTOC": true
+    },
+    {
+      "title": "RSI Divergense Strategy",
+      "file": "ChartPatterns/RsiStrategy.md",
+      "showTOC": true
     }
   ]
 }
