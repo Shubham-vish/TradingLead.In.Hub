@@ -62,6 +62,7 @@ The market operates on the principle of **Discount Zones** and **Premium Zones**
 
 - **Discount Zone**: Where Smart Money buys.
 - **Premium Zone**: Where Smart Money sells.
+<img src="discountpremium.gif" width="300" height="400" alt="Trapping Mechanism 1">
 
 This forms the basis of **liquidity grabbing, stop-loss hunting, and market manipulation**.
 
