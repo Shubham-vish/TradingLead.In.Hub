@@ -41,7 +41,7 @@ Here’s how it works:
 - Once liquidity is collected, the market moves sharply in its intended direction, and this is how Big players buy at Discount zones and Sell and Premium zones.
   <img src="discountpremium.gif" width="300" height="400" alt="Trapping Mechanism 1">
 
-### **2. Liquidity and Stop-Loss Hunting**
+### **2. Liquidity, Stop-Loss Hunting & Manipulation**
 
 - **Liquidity** is where a large number of orders (stop-losses, pending orders) are placed.
 - The market moves to these levels to **consume liquidity** and then continues in the planned direction.
@@ -69,7 +69,7 @@ This forms the basis of **liquidity grabbing, stop-loss hunting, and market mani
 ---
 
 ## **Why Does This Happen?**
-
+- Answer is Liquidity
 - The market seeks areas of **high liquidity** (where many orders are placed).
 - These areas act as magnets for price movement.
 - Once liquidity is grabbed, the market moves in its **true direction**.
