@@ -1,16 +1,22 @@
 # **Smart Money Concepts - Day 1**
 
+Everyone is talking about Smart Money Concepts but what it is actually?
+
+| ![Hala Hala OMG](https://tenor.com/view/hala-hala-omg-hala-mizumi-omg-what-happened-gif-7109662356788934829.gif) | ![Incomodo](https://tenor.com/view/incomodo-gif-10145328722885477372.gif) |
+| ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+|                                                                                                                  |                                                                           |
+
+Welcome to **Day 1 of Smart Money Concepts**, where we’ll explore how the market operates, from stop-loss hunting to understanding liquidity. Let's dive into the **basics of SMC** and build a foundation for advanced trading concepts.
+
+![alt text](image-2.png)
+
 ## **Key Question**
 
 **Why does the market hit your stop-loss and then move straight to your target?**
 
-The answer is simple: **Smart Money!**
+### The Answer is Smart Money!
 
 This behavior is not random—it’s a deliberate move by institutional traders to manipulate retail traders.
-
-Welcome to **Day 1 of Smart Money Concepts**, where we’ll explore how the market operates, from stop-loss hunting to understanding liquidity. Let's dive into the **basics of SMC** and build a foundation for advanced trading concepts.
-
-![alt text](image-1.png)
 
 ---
 
@@ -22,12 +28,14 @@ Here’s how it works:
 
 ### **1. The Trapping Mechanism**
 
-![Trapping Mechanism](https://media.giphy.com/media/l2JebLfNYhrepW9j2/giphy.gif)
+| ![Trapping Mechanism 1](https://media.giphy.com/media/l2JebLfNYhrepW9j2/giphy.gif) | ![Trapping Mechanism 2](https://media.giphy.com/media/ag4FGB9FDyU4E/giphy.gif) | ![Liquidity and Stop-Loss Hunting](https://media1.tenor.com/m/NRfN0XhrCGIAAAAd/jayson-casper-stoploss.gif) |
+| ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------- |
+|  |
 
 - If the market intends to move **up**, it first drops to:
-  - **Hunt stop-losses** placed by retail traders.
-  - **Grab liquidity** (i.e., orders stacked below support levels).
+  - **Hunt stop-losses** placed by retail traders, Stoplosses act as **liquidity** (i.e., orders stacked below support levels. If big players wants to buy huge volume, they need to buy from someone, so they will buy from retail traders who have placed their stoplosses below support levels.
 - Once liquidity is collected, the market moves sharply in its intended direction.
+- This is how Big players buy at Discount zones and Sell and Premium zones.
 
 ### **2. Liquidity and Stop-Loss Hunting**
 
