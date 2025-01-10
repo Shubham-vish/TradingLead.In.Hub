@@ -22,7 +22,7 @@ Here’s how it works:
 
 ### **1. The Trapping Mechanism**
 
-![alt text](image.png)
+![Trapping Mechanism](https://media.giphy.com/media/l2JebLfNYhrepW9j2/giphy.gif)
 
 - If the market intends to move **up**, it first drops to:
   - **Hunt stop-losses** placed by retail traders.
