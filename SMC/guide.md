@@ -28,23 +28,24 @@ Here’s how it works:
 
 ### **1. The Trapping Mechanism**
 
+<div>
 <img src="trap.gif" width="200" height="200" alt="Trapping Mechanism 1"> 
 |<img src="https://media.giphy.com/media/l2JebLfNYhrepW9j2/giphy.gif" width="200" height="200" alt="Trapping Mechanism 1"> |<img src="https://media.giphy.com/media/ag4FGB9FDyU4E/giphy.gif" width="200" height="200" alt="Trapping Mechanism 1">
-
+</div>
 - If the market intends to move **up**, it first drops to:
 
 - **Hunt stop-losses** placed by retail traders, Stoplosses act as **liquidity** (i.e., orders stacked below support levels. If big players wants to buy huge volume, they need to buy from someone, so they will buy from retail traders who have placed their stoplosses below support levels.
 
   ![alt text](image-3.png)
 
-- Once liquidity is collected, the market moves sharply in its intended direction, and this is how Big players **buy at Discount zones and Sell and Premium zones**.
+- Once liquidity is collected, the market moves sharply in its intended direction, and this is how Big players buy at Discount zones and Sell and Premium zones.
   <img src="discountpremium.gif" width="300" height="400" alt="Trapping Mechanism 1">
 
 ### **2. Liquidity and Stop-Loss Hunting**
 
 - **Liquidity** is where a large number of orders (stop-losses, pending orders) are placed.
 - The market moves to these levels to **consume liquidity** and then continues in the planned direction.
-  <img src="slhunting.gif" width="400" height="500" alt="Trapping Mechanism 1">
+  <img src="slhunting.gif" width="300" height="400" alt="Trapping Mechanism 1">
 
 ### **Example Scenario:**
 
