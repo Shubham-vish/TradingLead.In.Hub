@@ -16,23 +16,15 @@ First thing to understand is that:
 
 > **"If you don’t know where the liquidity is, then you are the liquidity."**
 
+### **Trapping Mechanism:**
+
+## <img src="ratsTrapped.gif">
+
 The market is designed to trap small, retail traders and profit from their mistakes. Understanding this principle is the foundation of Smart Money Concepts.
 Tab tak ap chote player hi banke reh jaoge..
 jo har bar big players yani smart money ke trap ma fasega...
 
 <img src="retailLiquidityToSmartMoneyWhale.gif">
-
-<img src="buySell.gif">
-<img src="buySellComplete.gif">
-
-<img src="brain.gif">
-
-<img src="bigPlayers.gif">
-
-<img src="slHitCartoon.gif">
-<img src="trapStoploss.gif">
-<img src="tradeInHigherTf.gif">
-<img src="entryInSmallerTf.gif">
 
 ---
 
@@ -42,6 +34,8 @@ jo har bar big players yani smart money ke trap ma fasega...
 
 Retail traders often:
 
+<img src="buySell.gif">
+<img src="buySellComplete.gif">
 1. **Buy when the market is going up**.
 2. **Sell when the market is going down**.
 
@@ -80,6 +74,8 @@ By learning SMC, you can:
    - Develop strategies that account for market manipulation.
 
 ---
+
+<img src="bigPlayers.gif">
 
 ## **Core SMC Philosophy**
 
