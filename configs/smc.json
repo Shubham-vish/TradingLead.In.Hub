@@ -1,10 +1,15 @@
 {
   "title": "Smart Money Concept - Guide",
-  "showIndex": false,
+  "showIndex": true,
   "items": [
     {
       "title": "Smart Money Concept - Guide",
-      "file": "SMC/guide.md",
+      "file": "SMC/day1.md",
+      "showTOC": false
+    },
+    {
+      "title": "Smart Money Concept - Guide",
+      "file": "SMC/day2.md",
       "showTOC": false
     }
   ]

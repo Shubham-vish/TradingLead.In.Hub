@@ -10,7 +10,6 @@
 <img src="retailLiquidityToSmartMoneyWhale.gif">
 <img src="bigPlayers.gif">
 
-
 <img src="slHitCartoon.gif">
 <img src="trapStoploss.gif">
 <img src="tradeInHigherTf.gif">
