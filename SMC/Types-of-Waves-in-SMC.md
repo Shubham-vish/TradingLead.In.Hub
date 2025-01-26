@@ -57,8 +57,7 @@ Similarly, candles 12 and 13 do not break the high or low of the preceding candl
 
 #### Corrective Waves in a Downtrend
 
-<img src="./image-6.png" width="600" height="400">
-
+<img src="./image-16.png" width="600" height="400">
 
 When discussing corrective waves in an uptrend, we must also consider the corrective waves in a **downtrend**. Although the fundamental principle is similar, the **opposite direction of the trend** requires clarification, especially for beginners to avoid confusion while learning.
 
