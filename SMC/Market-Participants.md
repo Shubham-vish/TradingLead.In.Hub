@@ -11,13 +11,18 @@ In the Indian stock market, there are four primary types of participants:
 3. Proprietary Traders (Pro)
 4. Retail Clients (Clients)
 
+![alt text](image-9.png)
+
+
 Understanding how these participants operate is key to mastering market dynamics and price movement.
 
----
 
 ## 1. **Foreign Institutional Investors (FIIs)**
 
 FIIs refer to institutions based outside India that invest in the Indian markets. These include:
+
+![alt text](image-10.png)
+
 
 - **Hedge Funds**
 - **Pension Funds**
@@ -34,6 +39,9 @@ FIIs refer to institutions based outside India that invest in the Indian markets
 
 DIIs are institutions based in India that invest in the domestic stock market. Examples include:
 
+<img src="./image-11.png" width="400" height="200" alt="Trapping Mechanism 1"> 
+
+
 - **Life Insurance Corporation of India (LIC)**
 - **Mutual Fund Houses**
 - **Insurance Companies**
@@ -49,6 +57,8 @@ DIIs are institutions based in India that invest in the domestic stock market. E
 
 Proprietary traders (often referred to as "Pro") include brokers and financial firms that trade using their own capital rather than trading on behalf of clients.
 
+![alt text](image-12.png)
+
 ### Characteristics of Pro:
 - **Short-Term Strategies**: Pro traders generally focus on exploiting short-term opportunities in the market, such as arbitrage, scalping, or momentum trading.
 - **Expertise**: These participants have access to sophisticated tools, data, and algorithms that give them an edge over retail traders.
@@ -59,6 +69,8 @@ Proprietary traders (often referred to as "Pro") include brokers and financial f
 ## 4. **Retail Clients (Clients)**
 
 Retail clients include individuals like you and me who trade through brokers. They form the majority of participants in terms of numbers but not in terms of capital.
+
+<img src="./image-13.png" width="400" height="300" alt="Trapping Mechanism 1"> 
 
 ### Characteristics of Clients:
 - **Small Capital**: Retail investors generally trade with limited funds.
