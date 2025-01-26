@@ -70,7 +70,7 @@ Proprietary traders (often referred to as "Pro") include brokers and financial f
 
 Retail clients include individuals like you and me who trade through brokers. They form the majority of participants in terms of numbers but not in terms of capital.
 
-<img src="./image-13.png" width="400" height="300" alt="Trapping Mechanism 1"> 
+<img src="./image-13.png" width="400" height="400" alt="Trapping Mechanism 1"> 
 
 ### Characteristics of Clients:
 - **Small Capital**: Retail investors generally trade with limited funds.
@@ -100,18 +100,18 @@ To me, **Smart Money** is faceless and nameless. Sometimes it appears in the for
 
 Understanding how these four participants change their positions daily is crucial. Below is a graphical representation of their activities, which updates daily:
 
-![Participant Positioning Chart](https://tradinglead.in/futures)
+![alt text](image-8.png)
+
+
+You can analyze individual graphs of participants and analyze who is increasing or decreasing position and based on that where the market price is moving, you can analyze who is being smart and who is getting trapped.
+
+
 
 This chart shows how participants are adjusting their positions in futures contracts every day. To view the live data and analysis, visit the following link:
 
 **[Futures Participants Data](https://tradinglead.in/futures)**
 
 It shows the proper chart which tells how the different participants and positioning themselves in Indian Stock Market Indices.
-
-![alt text](image-8.png)
-
-You can analyze individual graphs of participants and analyze who is increasing or decreasing position and based on that where the market price is moving, you can analyze who is being smart and who is getting trapped.
-
 
 
 ---
