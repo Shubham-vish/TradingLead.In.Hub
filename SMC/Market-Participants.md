@@ -101,18 +101,19 @@ To me, **Smart Money** is faceless and nameless. Sometimes it appears in the for
 Understanding how these four participants change their positions daily is crucial. Below is a graphical representation of their activities, which updates daily:
 
 ![alt text](image-8.png)
+Zoom in to View clearly or right click and open this image in next tab.
+
+The above chart is available regularly in the tradinglead website futures section:
+**[TradingLead Futures Analysis](https://tradinglead.in/futures)**
 
 
 You can analyze individual graphs of participants and analyze who is increasing or decreasing position and based on that where the market price is moving, you can analyze who is being smart and who is getting trapped.
-
-
 
 This chart shows how participants are adjusting their positions in futures contracts every day. To view the live data and analysis, visit the following link:
 
 **[Futures Participants Data](https://tradinglead.in/futures)**
 
 It shows the proper chart which tells how the different participants and positioning themselves in Indian Stock Market Indices.
-
 
 ---
 
