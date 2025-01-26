@@ -16,6 +16,9 @@ In the Indian stock market, there are four primary types of participants:
 
 Understanding how these participants operate is key to mastering market dynamics and price movement.
 
+This is part (3) of Smart Money Concepts Series:
+
+![alt text](image-1.png)
 
 ## 1. **Foreign Institutional Investors (FIIs)**
 

@@ -2,7 +2,7 @@
 
 Welcome to Day 2 of SMC.
 
-![alt text](image-4.png)
+![alt text](image-14.png)
 
 ## **Why Should You Learn SMC?**
 
