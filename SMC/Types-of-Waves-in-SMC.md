@@ -10,6 +10,10 @@ Welcome to part 5 of learning SMC Here, we establish the foundational elements o
 
 This chapter sets the stage for a nuanced appreciation of how markets behave in both uptrends and downtrends, providing you with the essential tools to navigate the trading landscape more effectively. As we proceed, keep in mind that this introduction, though concise, is the cornerstone upon which your understanding of Smart Money Concepts will be built.
 
+
+This is part (4) of Smart Money Concepts Series:
+
+![alt text](image-6.png)
 ---
 
 ## Impulsive and Corrective Waves
