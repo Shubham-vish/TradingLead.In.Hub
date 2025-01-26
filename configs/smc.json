@@ -3,22 +3,22 @@
   "showIndex": true,
   "items": [
     {
-      "title": "Smart Money Concept - Guide",
+      "title": "What is SMC?",
       "file": "SMC/day1.md",
       "showTOC": false
     },
     {
-      "title": "Smart Money Concept - Guide",
+      "title": "Why you Should Learn SMC?",
       "file": "SMC/day2.md",
       "showTOC": false
     },
     {
-      "title": "Smart Money Concept - Guide",
+      "title": "Market Participants",
       "file": "SMC/day4.md",
       "showTOC": false
     },
     {
-      "title": "Why you should learn SMC",
+      "title": "Types of Waves in SMC?",
       "file": "SMC/day4.md",
       "showTOC": false
     }
