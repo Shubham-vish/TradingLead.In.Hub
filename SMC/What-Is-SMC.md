@@ -6,7 +6,7 @@ Everyone is talking about Smart Money Concepts but what it is actually?
 
 Welcome to **Day 1 of Smart Money Concepts**, where we’ll explore how the market operates, from stop-loss hunting to understanding liquidity. Let's dive into the **basics of SMC** and build a foundation for advanced trading concepts.
 
-![alt text](image-2.png)
+![alt text](image-7.png)
 
 ## **Key Question**
 

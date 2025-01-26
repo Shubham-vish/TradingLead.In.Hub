@@ -4,17 +4,17 @@
   "items": [
     {
       "title": "What is SMC?",
-      "file": "SMC/day1.md",
+      "file": "SMC/What-Is-SMC.md",
       "showTOC": false
     },
     {
       "title": "Why you Should Learn SMC?",
-      "file": "SMC/day2.md",
+      "file": "SMC/Why-Learn-SMC.md",
       "showTOC": false
     },
     {
       "title": "Market Participants",
-      "file": "SMC/day4.md",
+      "file": "SMC/Market-Participants.md",
       "showTOC": false
     },
     {
