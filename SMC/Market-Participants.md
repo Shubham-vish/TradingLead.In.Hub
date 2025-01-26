@@ -60,7 +60,7 @@ DIIs are institutions based in India that invest in the domestic stock market. E
 
 Proprietary traders (often referred to as "Pro") include brokers and financial firms that trade using their own capital rather than trading on behalf of clients.
 
-![alt text](image-12.png)
+<img src="./image-12.png" width="500" height="300" alt="Trapping Mechanism 1"> 
 
 ### Characteristics of Pro:
 - **Short-Term Strategies**: Pro traders generally focus on exploiting short-term opportunities in the market, such as arbitrage, scalping, or momentum trading.
