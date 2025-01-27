@@ -33,6 +33,11 @@
       "showTOC": true
     },
     {
+      "title": "Break of Structure",
+      "file": "SMC/Break-of-Structure.md",
+      "showTOC": true
+    },
+    {
       "title": "Assets used",
       "file": "SMC/Assets.md",
       "showTOC": false
