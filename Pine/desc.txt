@@ -1,0 +1,38 @@
+📈 Moving Average Crossover Strategy | Pine Script Indicator Tutorial (Part 3)
+
+Welcome to Part 3 of our TradingView Pine Script series! 🎥
+In this video, we create an Exponential Moving Average (EMA) Crossover Strategy, which generates Buy and Sell signals based on the crossover of two moving averages. Perfect for traders looking to build their own custom indicators!
+
+🔥 What You'll Learn:
+✔️ How to define short and long EMAs (14 & 50 periods).
+✔️ Using crossover and crossunder functions in Pine Script.
+✔️ Plotting Buy (Green Arrows) and Sell (Red Arrows) signals on your chart.
+✔️ Step-by-step coding tutorial with clear explanations.
+
+💻 Code Example:
+
+🛠️ Steps in the Video:
+1️⃣ Open the Pine Editor on TradingView.
+2️⃣ Define the moving averages using ta.ema.
+3️⃣ Use ta.crossover and ta.crossunder to calculate Buy and Sell signals.
+4️⃣ Plot the signals and moving averages directly on your chart.
+5️⃣ Save and add the indicator to your chart.
+
+💡 Bonus:
+Want the full code? Just comment "Code" on this video, and we'll share it with you! 🙌
+
+🚀 Next Up:
+In Part 4, we'll enhance this strategy with trend confirmation filters to make your signals even more accurate. Don't forget to subscribe and turn on notifications 🔔 so you don’t miss out!
+
+📚 Other Tutorials in This Series:
+
+Part 1: Introduction to Pine Script.
+Part 2: Creating Indicators with Custom Alerts.
+👍 Like, Share, and Subscribe if you find this helpful! Your support keeps us motivated to create more valuable content.
+
+Follow us for more insights and strategies:
+🌐 Website: tradinglead.in
+📸 Instagram: @TradingLead
+🎥 YouTube: Subscribe now!
+
+#TradingView #PineScript #MovingAverage #TradingIndicators #LearnToTrade #TechnicalAnalysis #TradingLead
