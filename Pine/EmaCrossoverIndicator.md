@@ -21,8 +21,8 @@ buySignal = ta.crossover(shortMA, longMA)
 sellSignal = ta.crossunder(shortMA, longMA)
 plot(shortMA, color=color.red)
 plot(longMA, color=color.blue)
-plotshape(buySignal, style=shape.triangleup, location=location.belowbar, color=color.green)
-plotshape(sellSignal, style=shape.triangledown, location=location.abovebar, color=color.red)
+plotshape(series=buySignal, title="Buy Signal", location=location.belowbar, color=color.green, style=shape.labelup, text="BUY")
+plotshape(series=sellSignal, title="Sell Signal", location=location.abovebar, color=color.red, style=shape.labeldown, text="SELL")
 ```
 
 ## 🛠️ Steps in the Video:

@@ -9,7 +9,8 @@ In this video, we create an Exponential Moving Average (EMA) Crossover Strategy,
 ✔️ Plotting Buy (Green Arrows) and Sell (Red Arrows) signals on your chart.
 ✔️ Step-by-step coding tutorial with clear explanations.
 
-💻 Code Example:
+💻 Visit following url for Code Example:
+https://tradinglead.in/blogs/pinescript/Pine/EmaCrossoverIndicator.md
 
 🛠️ Steps in the Video:
 1️⃣ Open the Pine Editor on TradingView.
