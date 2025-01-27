@@ -15,12 +15,22 @@
     {
       "title": "Market Participants",
       "file": "SMC/Market-Participants.md",
-      "showTOC": false
+      "showTOC": true
     },
     {
       "title": "Types of Waves in SMC?",
       "file": "SMC/Types-of-Waves-in-SMC.md",
-      "showTOC": false
+      "showTOC": true
+    },
+    {
+      "title": "Liquidity",
+      "file": "SMC/Liquidity.md",
+      "showTOC": true
+    },
+    {
+      "title": "Market Structure Shift",
+      "file": "SMC/Market-Structure-Shift.md",
+      "showTOC": true
     },
     {
       "title": "Assets used",
