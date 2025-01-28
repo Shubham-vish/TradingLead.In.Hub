@@ -10,6 +10,7 @@ In this video, we create an Exponential Moving Average (EMA) Crossover Strategy,
 ✔️ Step-by-step coding tutorial with clear explanations.
 
 💻 Visit following url for Code Example:
+https://www.tradingview.com/script/MyR0jAj9-EMA-Crossover-Indicator/
 https://tradinglead.in/blogs/pinescript/Pine/EmaCrossoverIndicator.md
 
 🛠️ Steps in the Video:
