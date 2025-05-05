@@ -1,0 +1,31 @@
+{
+	"title": "Python Programming Tutorials",
+	"showIndex": true,
+	"items": [
+		{
+			"title": "Getting Started with Python",
+			"file": "Python/getting-started.md",
+			"showTOC": true
+		},
+		{
+			"title": "Data Structures in Python",
+			"file": "Python/data-structures.md",
+			"showTOC": true
+		},
+		{
+			"title": "Building a Simple Trading Algorithm",
+			"file": "Python/trading-algorithm.md",
+			"showTOC": true
+		},
+		{
+			"title": "Data Analysis with Pandas",
+			"file": "Python/pandas-analysis.md",
+			"showTOC": true
+		},
+		{
+			"title": "Visualization with Matplotlib",
+			"file": "Python/matplotlib-visualization.md",
+			"showTOC": true
+		}
+	]
+}
