@@ -1,7 +1,7 @@
 {
 	"title": "Python Programming Tutorials",
 	"showIndex": true,
-	"base":"https://raw.githubusercontent.com/Shubham-vish/python_tutorials/main"
+	"base":"https://raw.githubusercontent.com/Shubham-vish/python_tutorials/main",
 	"items": [
 		{
 			"title": "Getting Started with Python",
