@@ -1,0 +1,17 @@
+{
+  "title": "AI Agents Programming",
+  "showIndex": true,
+  "basePath": "https://raw.githubusercontent.com/Shubham-vish/prepwithai_tutorials/main",
+  "items": [
+    {
+      "title": "Ai Agents Frameworks",
+      "file": "Agents/AI_Agent_Frameworks_Detailed_Guide.md",
+      "showTOC": true
+    },
+    {
+      "title": "LangChain Guide",
+      "file": "Agents/LangChain_Detailed_Guide.md",
+      "showTOC": true
+    }
+  ]
+}
