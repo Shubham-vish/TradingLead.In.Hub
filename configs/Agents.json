@@ -12,6 +12,11 @@
       "title": "LangChain Guide",
       "file": "Agents/LangChain_Detailed_Guide.md",
       "showTOC": true
+    },
+    {
+      "title": "Crew Ai Guide",
+      "file": "Agents/CrewAI_Detailed_Guide.md",
+      "showTOC": true
     }
   ]
 }
