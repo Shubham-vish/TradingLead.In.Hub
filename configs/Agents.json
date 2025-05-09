@@ -17,6 +17,22 @@
       "title": "Crew Ai Guide",
       "file": "Agents/CrewAI_Detailed_Guide.md",
       "showTOC": true
-    }
+    },
+    {
+      "title": "AutoGen Framework",
+      "file": "Agents/AutoGen_Detailed_Guide.md",
+      "showTOC": true
+    },
+    {
+    "title": "LangGraph Framework",
+    "file": "Agents/LangGraph_Detailed_Guide.md",
+   "showTOC": true
+  },
+     {
+      "title": "Custom Solutions",
+      "file": "Agents/Custom_Solutions_Guide.md",
+       "showTOC": true
+  }
+    
   ]
 }
