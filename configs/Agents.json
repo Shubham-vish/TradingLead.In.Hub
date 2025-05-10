@@ -32,6 +32,11 @@
       "title": "Custom Solutions",
       "file": "Agents/Custom_Solutions_Guide.md",
       "showTOC": true
+    },
+    {
+      "title": "Content Planner Agents",
+      "file": "Agents/planner_agents.md",
+      "showTOC": true
     }
   ]
 }
