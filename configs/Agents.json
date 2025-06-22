@@ -37,6 +37,11 @@
       "title": "Content Planner Agents",
       "file": "Agents/planner_agents.md",
       "showTOC": true
-    }
+    },
+    {
+      "title": "Prompt Engineering",
+      "file": "Agents/PrompEngineering.md",
+      "showTOC": true
+    },
   ]
 }
