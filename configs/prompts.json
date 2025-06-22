@@ -5,7 +5,7 @@
   "items": [
     {
       "title": "Prompting Techniques",
-      "file": "Agents/PromptingTechniques.md.md",
+      "file": "Agents/PromptingTechniques.md",
       "showTOC": true
     },
     {
