@@ -1,0 +1,17 @@
+{
+  "title": "Ai Prompting Guide",
+  "showIndex": true,
+  "basePath": "https://raw.githubusercontent.com/Shubham-vish/prepwithai_tutorials/main",
+  "items": [
+    {
+      "title": "Prompting Techniques",
+      "file": "Agents/PromptingTechniques.md.md",
+      "showTOC": true
+    },
+    {
+      "title": "Prompt Engineering",
+      "file": "Agents/PromptEngineeringProfile.md",
+      "showTOC": true
+    }
+  ]
+}
