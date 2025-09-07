@@ -1,4 +1,4 @@
-# Market Participants - Explained
+# Market Participants
 
 ## Introduction
 
