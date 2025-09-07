@@ -1,4 +1,4 @@
-# Market Participants - Test
+# Market Participants
 
 ## Introduction
 
