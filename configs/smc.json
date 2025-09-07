@@ -4,11 +4,7 @@
   "basePath": "https://raw.githubusercontent.com/Shubham-vish/prepwithai_tutorials/main",
   "items": [
 
-    {
-      "title": "Why you Should Learn SMC?",
-      "file": "SMC/Why-Learn-SMC.md",
-      "showTOC": true
-    },
+    
     {
       "title": "Market Participants",
       "file": "SMC/Market-Participants.md",
