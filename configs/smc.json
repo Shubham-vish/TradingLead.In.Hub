@@ -3,11 +3,7 @@
   "showIndex": true,
   "basePath": "https://raw.githubusercontent.com/Shubham-vish/prepwithai_tutorials/main",
   "items": [
-    {
-      "title": "What is SMC?",
-      "file": "SMC/What-Is-SMC.md",
-      "showTOC": true
-    },
+
     {
       "title": "Why you Should Learn SMC?",
       "file": "SMC/Why-Learn-SMC.md",
