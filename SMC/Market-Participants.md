@@ -11,30 +11,29 @@ In the Indian stock market, there are four primary types of participants:
 3. Proprietary Traders (Pro)
 4. Retail Clients (Clients)
 
-![alt text](image-9.png)
-
+![alt text](./images/image-9.png)
 
 Understanding how these participants operate is key to mastering market dynamics and price movement.
 
 This is part (3) of Smart Money Concepts Series:
 
-![alt text](image-1.png)
+![alt text](./images/image-1.png)
 
 ## 1. **Foreign Institutional Investors (FIIs)**
 
 FIIs refer to institutions based outside India that invest in the Indian markets. These include:
 
-![alt text](image-10.png)
+![alt text](./images/image-10.png)
 
-
-- **Hedge Funds**
-- **Pension Funds**
-- **Sovereign Wealth Funds**
+-   **Hedge Funds**
+-   **Pension Funds**
+-   **Sovereign Wealth Funds**
 
 ### Characteristics of FIIs:
-- **Purpose**: Their primary goal is to diversify their capital across various global markets, including India.
-- **Capital Influence**: FIIs often trade in large volumes, and their activities can significantly impact market trends and liquidity.
-- **Market Impact**: FIIs are considered trendsetters since they often drive major rallies or corrections in the markets.
+
+-   **Purpose**: Their primary goal is to diversify their capital across various global markets, including India.
+-   **Capital Influence**: FIIs often trade in large volumes, and their activities can significantly impact market trends and liquidity.
+-   **Market Impact**: FIIs are considered trendsetters since they often drive major rallies or corrections in the markets.
 
 ---
 
@@ -42,17 +41,17 @@ FIIs refer to institutions based outside India that invest in the Indian markets
 
 DIIs are institutions based in India that invest in the domestic stock market. Examples include:
 
-<img src="./image-11.png" width="400" height="200" alt="Trapping Mechanism 1"> 
+<img src="././images/image-11.png" width="400" height="200" alt="Trapping Mechanism 1">
 
-
-- **Life Insurance Corporation of India (LIC)**
-- **Mutual Fund Houses**
-- **Insurance Companies**
+-   **Life Insurance Corporation of India (LIC)**
+-   **Mutual Fund Houses**
+-   **Insurance Companies**
 
 ### Characteristics of DIIs:
-- **Purpose**: They aim to invest funds collected from Indian investors (like mutual fund SIPs or insurance premiums) back into the Indian market.
-- **Stability**: DIIs are often seen as stabilizers in the market, as they step in to buy during corrections and sell during overbought conditions.
-- **Complementary Role**: DIIs often act in contrast to FIIs; when FIIs are selling, DIIs are buying, and vice versa.
+
+-   **Purpose**: They aim to invest funds collected from Indian investors (like mutual fund SIPs or insurance premiums) back into the Indian market.
+-   **Stability**: DIIs are often seen as stabilizers in the market, as they step in to buy during corrections and sell during overbought conditions.
+-   **Complementary Role**: DIIs often act in contrast to FIIs; when FIIs are selling, DIIs are buying, and vice versa.
 
 ---
 
@@ -60,12 +59,13 @@ DIIs are institutions based in India that invest in the domestic stock market. E
 
 Proprietary traders (often referred to as "Pro") include brokers and financial firms that trade using their own capital rather than trading on behalf of clients.
 
-<img src="./image-12.png" width="500" height="300" alt="Trapping Mechanism 1"> 
+<img src="././images/image-12.png" width="500" height="300" alt="Trapping Mechanism 1">
 
 ### Characteristics of Pro:
-- **Short-Term Strategies**: Pro traders generally focus on exploiting short-term opportunities in the market, such as arbitrage, scalping, or momentum trading.
-- **Expertise**: These participants have access to sophisticated tools, data, and algorithms that give them an edge over retail traders.
-- **Volume Impact**: Though their trades are smaller compared to FIIs and DIIs, their high-frequency activity adds liquidity to the market.
+
+-   **Short-Term Strategies**: Pro traders generally focus on exploiting short-term opportunities in the market, such as arbitrage, scalping, or momentum trading.
+-   **Expertise**: These participants have access to sophisticated tools, data, and algorithms that give them an edge over retail traders.
+-   **Volume Impact**: Though their trades are smaller compared to FIIs and DIIs, their high-frequency activity adds liquidity to the market.
 
 ---
 
@@ -73,12 +73,13 @@ Proprietary traders (often referred to as "Pro") include brokers and financial f
 
 Retail clients include individuals like you and me who trade through brokers. They form the majority of participants in terms of numbers but not in terms of capital.
 
-<img src="./image-13.png" width="400" height="400" alt="Trapping Mechanism 1"> 
+<img src="././images/image-13.png" width="400" height="400" alt="Trapping Mechanism 1">
 
 ### Characteristics of Clients:
-- **Small Capital**: Retail investors generally trade with limited funds.
-- **Behavioral Biases**: Retail traders often trade emotionally, influenced by greed and fear, which can lead to impulsive decisions.
-- **Limited Impact**: Despite their large numbers, retail traders lack the ability to influence market trends significantly.
+
+-   **Small Capital**: Retail investors generally trade with limited funds.
+-   **Behavioral Biases**: Retail traders often trade emotionally, influenced by greed and fear, which can lead to impulsive decisions.
+-   **Limited Impact**: Despite their large numbers, retail traders lack the ability to influence market trends significantly.
 
 ---
 
@@ -89,7 +90,7 @@ Many people group FIIs and DIIs under the term "Smart Money" because:
 1. They manage large amounts of capital.
 2. They have the power to influence market direction due to their buying and selling activities.
 
-However, I strongly **disagree** with this oversimplification. Smart Money is not about how much capital you have; it’s about how strategically and efficiently you use it. 
+However, I strongly **disagree** with this oversimplification. Smart Money is not about how much capital you have; it’s about how strategically and efficiently you use it.
 
 Retail traders, with the right education and discipline, can also think and act like smart money.
 
@@ -103,12 +104,11 @@ To me, **Smart Money** is faceless and nameless. Sometimes it appears in the for
 
 Understanding how these four participants change their positions daily is crucial. Below is a graphical representation of their activities, which updates daily:
 
-![alt text](image-8.png)
+![alt text](./images/image-8.png)
 Zoom in to View clearly or right click and open this image in next tab.
 
 The above chart is available regularly in the tradinglead website futures section:
 **[TradingLead Futures Analysis](https://tradinglead.in/futures)**
-
 
 You can analyze individual graphs of participants and analyze who is increasing or decreasing position and based on that where the market price is moving, you can analyze who is being smart and who is getting trapped.
 
@@ -133,4 +133,3 @@ Understanding these four market participants is essential for anyone aiming to s
 This is just the beginning. Stay tuned for the upcoming lessons in this **Basic to Advanced SMC Series** as we unravel more powerful insights to enhance your trading skills.
 
 **Jai Hind!**
-

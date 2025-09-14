@@ -1,16 +1,16 @@
-<img src="YouAreLiquidity.gif">
+<img src="./gifs/YouAreLiquidity.gif">
 
-<img src="ratsTrapped.gif">
+<img src="./gifs/ratsTrapped.gif">
 
-<img src="buySell.gif">
-<img src="buySellComplete.gif">
+<img src="./gifs/buySell.gif">
+<img src="./gifs/buySellComplete.gif">
 
-<img src="brain.gif">
+<img src="./gifs/brain.gif">
 
-<img src="retailLiquidityToSmartMoneyWhale.gif">
-<img src="bigPlayers.gif">
+<img src="./gifs/retailLiquidityToSmartMoneyWhale.gif">
+<img src="./gifs/bigPlayers.gif">
 
-<img src="slHitCartoon.gif">
-<img src="trapStoploss.gif">
-<img src="tradeInHigherTf.gif">
-<img src="entryInSmallerTf.gif">
+<img src="./gifs/slHitCartoon.gif">
+<img src="./gifs/trapStoploss.gif">
+<img src="./gifs/tradeInHigherTf.gif">
+<img src="./gifs/entryInSmallerTf.gif">

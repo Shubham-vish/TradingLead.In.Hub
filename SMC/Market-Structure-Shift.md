@@ -6,9 +6,9 @@ The **Market Structure Shift (MSS)** is one of the most significant early indica
 
 In this guide, we will:
 
-- Explore the types of market trends.
-- Understand what constitutes a market structure shift.
-- Learn how to trade market structure shifts effectively.
+-   Explore the types of market trends.
+-   Understand what constitutes a market structure shift.
+-   Learn how to trade market structure shifts effectively.
 
 ---
 
@@ -27,19 +27,19 @@ Understanding these trends is foundational for identifying a market structure sh
 ### What is a Market Structure Shift (MSS)?
 
 A **Market Structure Shift** occurs when the price breaks a significant swing high or swing low, indicating a potential reversal in the existing trend. This can happen in both bullish and bearish trends.
-   ![alt text](image-22.png)
+![alt text](./images/image-22.png)
 
 #### Bearish Structure Shift
 
-- **Condition**: Occurs when the market is in an **uptrend**, and the price breaks below the **previous swing low**.
-- **Enhanced Setup**: If the liquidity from the previous high is also swept before breaking the swing low, it strengthens the setup.
-![alt text](image-22.png)
+-   **Condition**: Occurs when the market is in an **uptrend**, and the price breaks below the **previous swing low**.
+-   **Enhanced Setup**: If the liquidity from the previous high is also swept before breaking the swing low, it strengthens the setup.
+    ![alt text](./images/image-22.png)
+
 #### Bullish Structure Shift
 
-- **Condition**: Occurs when the market is in a **downtrend**, and the price breaks above the **previous swing high**.
-- **Enhanced Setup**: If the liquidity from the previous low is swept before breaking the swing high, the probability of reversal increases.
-![alt text](image-23.png)
-
+-   **Condition**: Occurs when the market is in a **downtrend**, and the price breaks above the **previous swing high**.
+-   **Enhanced Setup**: If the liquidity from the previous low is swept before breaking the swing high, the probability of reversal increases.
+    ![alt text](./images/image-23.png)
 
 ---
 
@@ -47,21 +47,21 @@ A **Market Structure Shift** occurs when the price breaks a significant swing hi
 
 1. **Liquidity Sweep**:
 
-   - Before a structure shift, the market often sweeps liquidity from critical levels such as swing highs or lows.
-   - This process allows big players (institutions) to accumulate or distribute positions.
+    - Before a structure shift, the market often sweeps liquidity from critical levels such as swing highs or lows.
+    - This process allows big players (institutions) to accumulate or distribute positions.
 
 2. **Break of Structure (BOS)**:
 
-   - A confirmed shift in the trend requires the price to convincingly break above or below a critical swing level.
+    - A confirmed shift in the trend requires the price to convincingly break above or below a critical swing level.
 
-   ![alt text](image-24.png)
+    ![alt text](./images/image-24.png)
 
 3. **Lower Timeframe Confirmation**:
 
-   - Once a market structure shift is identified, traders often look for lower timeframe confirmations such as:
-     - **Order Blocks**
-     - **Fair Value Gaps**
-     - Other Points of Interest (POI)
+    - Once a market structure shift is identified, traders often look for lower timeframe confirmations such as:
+        - **Order Blocks**
+        - **Fair Value Gaps**
+        - Other Points of Interest (POI)
 
 ---
 
@@ -70,32 +70,37 @@ A **Market Structure Shift** occurs when the price breaks a significant swing hi
 #### Steps to Trade a Bullish Market Structure Shift:
 
 1. **Identify the Downtrend**:
-   - Look for consistent lower highs and lower lows.
 
+    - Look for consistent lower highs and lower lows.
 
 2. **Spot the Swing High**:
-   - Mark the previous significant swing high.
+
+    - Mark the previous significant swing high.
 
 3. **Wait for a Break**:
-   - Wait for the price to break above the swing high, confirming a bullish structure shift.
+
+    - Wait for the price to break above the swing high, confirming a bullish structure shift.
 
 4. **Look for POI**:
-   - On a lower timeframe, identify areas of interest like order blocks or fair value gaps to enter trades.
+    - On a lower timeframe, identify areas of interest like order blocks or fair value gaps to enter trades.
 
 #### Steps to Trade a Bearish Market Structure Shift:
 
 1. **Identify the Uptrend**:
-   - Look for consistent higher highs and higher lows.
 
+    - Look for consistent higher highs and higher lows.
 
 2. **Spot the Swing Low**:
-   - Mark the previous significant swing low.
+
+    - Mark the previous significant swing low.
 
 3. **Wait for a Break**:
-   - Wait for the price to break below the swing low, confirming a bearish structure shift.
+
+    - Wait for the price to break below the swing low, confirming a bearish structure shift.
 
 4. **Look for POI**:
-   - On a lower timeframe, identify potential entry zones such as order blocks or liquidity gaps.
+    - On a lower timeframe, identify potential entry zones such as order blocks or liquidity gaps.
+
 ---
 
 ### Practical Example
@@ -114,24 +119,24 @@ A **Market Structure Shift** occurs when the price breaks a significant swing hi
 3. The price then breaks below the previous swing low, signaling a bearish market structure shift.
 4. Traders look for entries near a point of interest on a lower timeframe.
 
-
 ---
 
 ### Tips for Successful MSS Trading
 
 1. **Wait for Confirmation**:
-   - Ensure the break of structure is clear and not just a wick through the level.
 
+    - Ensure the break of structure is clear and not just a wick through the level.
 
 2. **Combine with Liquidity Concepts**:
-   - MSS setups are more reliable when combined with liquidity sweeps.
 
+    - MSS setups are more reliable when combined with liquidity sweeps.
 
 3. **Use Multiple Timeframes**:
-   - Look for structure shifts on higher timeframes and refine entries on lower timeframes.
+
+    - Look for structure shifts on higher timeframes and refine entries on lower timeframes.
 
 4. **Risk Management**:
-   - Always use stop-loss orders below/above the liquidity sweep to manage risk effectively.
+    - Always use stop-loss orders below/above the liquidity sweep to manage risk effectively.
 
 ---
 
@@ -144,4 +149,3 @@ By combining MSS with liquidity sweeps and lower timeframe confirmations, trader
 Stay patient, practice on historical data, and refine your approach to become proficient in spotting and trading market structure shifts.
 
 **Jai Hind!**
-
